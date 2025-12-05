@@ -1,40 +1,73 @@
-## Profil — Jeng Pramesti Dyah Ayu Oktavian
+# 👋 Tentang Saya
 
-Halaman profil sederhana untuk Jeng Pramesti Dyah Ayu Oktavian, dibuat dengan Bootstrap 5.3 dan tema ungu elegan.
+## Jeng Pramesti Dyah Ayu Oktavian
+**Mahasiswi Psikologi • Semester 1**
 
-## Profil (lengkap)
-- **Nama:** Jeng Pramesti Dyah Ayu Oktavian
-- **Alamat:** Manukan, Surabaya
+Halo! Saya Jeng, mahasiswi baru di Jurusan Psikologi yang memiliki antusiasme tinggi untuk memahami perilaku manusia dan perkembangan psikologis. Saat ini saya sedang menempuh semester pertama dan aktif mempelajari dasar-dasar ilmu psikologi, metode penelitian, serta teori-teori perkembangan.
+
+### 📍 Informasi Kontak
+- **Lokasi:** Manukan, Surabaya
 - **Email:** shinkakyung@gmail.com
-- **Tema warna:** Ungu elegan (variabel CSS: `--purple-1`, `--purple-2`)
+- **Status:** Mahasiswi Aktif — Semester 1
 
-## Isi repositori
-- `index.html` — halaman profil responsif yang menampilkan nama, alamat, dan kontak.
+### 🎓 Pendidikan
+- **Program Studi:** Psikologi (S1)
+- **Status:** Mahasiswi Semester 1
+- **Tahun Masuk:** 2025
+- **Fokus Studi:** Psikologi Perkembangan, Psikologi Sosial, Metode Penelitian
 
-- `index.html` — halaman portofolio untuk mahasiswa Psikologi (semester 1). Halaman berisi ringkasan, pendidikan, keahlian, dan contoh proyek/kegiatan.
+### 💡 Minat & Keahlian
+- Psikologi Perkembangan Manusia
+- Penelitian Kualitatif dan Kuantitatif Dasar
+- Observasi dan Analisis Perilaku
+- Komunikasi Interpersonal
+- Empati dan Konseling Dasar
+- Kerja Tim dan Kolaborasi
 
-## Teknologi
-- HTML + Bootstrap 5.3
-- Font: Montserrat dari Google Fonts
+### 🌟 Aktivitas & Pengalaman
+Sebagai mahasiswa semester 1, saya aktif dalam:
+- Mengikuti mata kuliah dasar psikologi dengan penuh antusiasme
+- Mempelajari teknik observasi dan pencatatan perilaku
+- Berpartisipasi dalam diskusi kelas tentang isu-isu psikologis terkini
+- Mengembangkan kemampuan critical thinking dan analytical skills
 
-## Cara melihat (lokal)
-1. Buka file langsung di browser: klik dua kali atau buka `index.html`.
-2. Jalankan server ringan dari folder proyek dan buka di browser:
+### 🎯 Tujuan & Aspirasi
+- Mendalami pemahaman tentang psikologi klinis dan perkembangan
+- Mengembangkan keahlian dalam penelitian psikologi
+- Berkontribusi pada kesejahteraan mental masyarakat
+- Menjadi psikolog profesional yang kompeten dan empatik
 
+### 📂 Portofolio Online
+Silakan kunjungi halaman portofolio saya di `index.html` untuk informasi lebih lengkap tentang:
+- Ringkasan profil dan latar belakang
+- Detail pendidikan dan keahlian
+- Proyek dan kegiatan akademik
+- Cara menghubungi saya
+
+### 🛠️ Teknologi Website
+- **Framework:** Bootstrap 5.3
+- **Font:** Montserrat (Google Fonts)
+- **Tema:** Ungu elegan dengan gradasi profesional
+- **Responsif:** Tampilan optimal di desktop, tablet, dan mobile
+
+### 🚀 Cara Melihat Portofolio
+
+**Opsi 1: Buka langsung**
 ```bash
-python3 -m http.server 8000
-# lalu buka http://localhost:8000/index.html
+Buka file index.html di browser
 ```
 
-## Kustomisasi cepat
-- Mengganti foto profil: edit elemen `.profile-avatar` di `index.html` dan pasang gambar atau URL.
-- Mengganti warna utama: ubah variabel CSS `--purple-1` dan `--purple-2` di bagian `<style>` pada `index.html`.
-
-## Kontak
-- Email: `shinkakyung@gmail.com`
+**Opsi 2: Dengan server lokal**
+```bash
+python3 -m http.server 8000
+# Buka http://localhost:8000/index.html
+```
 
 ---
-File ini berisi profil singkat dan instruksi cepat. Ingin saya tambahkan foto profil (placeholder), tautan LinkedIn/GitHub, atau versi cetak (PDF)?
+
+💜 _"Memahami diri sendiri adalah awal dari kebijaksanaan."_ — Aristoteles
+
+© 2025 Jeng Pramesti Dyah Ayu Oktavian • Mahasiswi Psikologi Semester 1
 ## Hi there 👋
 
 <!--
