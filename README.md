@@ -73,18 +73,18 @@ Dengan semangat belajar dan rasa empati, saya ingin tumbuh sebagai pribadi yang 
 
 ## 🟣 **Statistik GitHub (opsional)**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=purple" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=purple" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinka-app&show_icons=true&theme=purple" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinka-app&layout=compact&theme=purple" />
 </p>
 
-> Ganti **YOURUSERNAME** dengan username GitHub-mu.
+> Ganti **shinka-app** dengan username GitHub-mu.
 
 ---
 
 ## 📫 **Hubungi Saya**
-- 📧 Email: *(isi sendiri)*  
+- 📧 Email: shinkakyung@gmail.com  
 - 🔗 LinkedIn: *(isi link)*  
-- 🟣 GitHub: *(link profilmu)*  
+- 🟣 GitHub: https://github.com/shinka-app
 
 ---
 
