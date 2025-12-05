@@ -83,35 +83,6 @@ Di samping studi, saya membuka beberapa jasa pendampingan psikologis berbasis pe
 
 Jika tertarik, silakan hubungi saya melalui email atau Instagram (handle: `@s32sakura`). Layanan bersifat non-klinis dan tidak menggantikan intervensi profesional klinis.
 
-
-## 🟣 **Statistik GitHub (opsional)**
-<p align="center">
-  <!-- Main GitHub stats card (use a supported theme) -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinka-app&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
-  <!-- Top languages (compact) -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinka-app&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <!-- Fallback badges (followers, repos, stars) -->
-  <img src="https://img.shields.io/github/followers/shinka-app?style=social" alt="github followers" />
-  <img src="https://img.shields.io/github/stars/shinka-app?style=social" alt="github stars" />
-  <img src="https://img.shields.io/github/repo-size/shinka-app?style=flat" alt="repo size" />
-</p>
-
-
-## 📊 Top Languages (statis — fallback)
-
-<!-- Generated fallback: use this when the github-readme-stats service is unavailable -->
-
-Tidak ada data bahasa yang terdeteksi untuk user `shinka-app` pada saat pengecekan (mungkin karena tidak ada repository publik atau service pihak ketiga sedang down). Jika Anda memiliki repositori publik, pastikan username benar atau jalankan skrip pembaruan untuk menghasilkan ringkasan statis.
-
-<!-- End fallback -->
-
-> Catatan: kartu statistik menggunakan layanan pihak ketiga (github-readme-stats). Jika kartu tidak muncul, pastikan `shinka-app` adalah username GitHub yang benar dan repository/public profile tidak dibatasi. Untuk mengubah username, ganti parameter `username=` pada URL gambar.
-
----
-
 ## 📫 **Hubungi Saya**
 - 📧 Email: <a href="mailto:shinkakyung@gmail.com">shinkakyung@gmail.com</a>  
 - 📷 Instagram: <a href="https://www.instagram.com/s32sakura" target="_blank">@s32sakura</a> (format kontak: DM / direct message)
