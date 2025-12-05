@@ -11,6 +11,8 @@ Halaman profil sederhana untuk Jeng Pramesti Dyah Ayu Oktavian, dibuat dengan Bo
 ## Isi repositori
 - `index.html` — halaman profil responsif yang menampilkan nama, alamat, dan kontak.
 
+- `index.html` — halaman portofolio untuk mahasiswa Psikologi (semester 1). Halaman berisi ringkasan, pendidikan, keahlian, dan contoh proyek/kegiatan.
+
 ## Teknologi
 - HTML + Bootstrap 5.3
 - Font: Montserrat dari Google Fonts

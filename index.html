@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portofolio — Jeng Pramesti Dyah Ayu Oktavian</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+      :root{--purple-1:#6f42c1; --purple-2:#9b5de5; --bg:#f8f6ff}
+      body{font-family:'Montserrat',system-ui, -apple-system, 'Segoe UI', Roboto, Arial; background:linear-gradient(180deg,var(--bg),#fff);}      
+      .hero{background:linear-gradient(135deg,var(--purple-1),var(--purple-2)); color:#fff; border-radius:12px; padding:28px}
+      .avatar{width:120px;height:120px;border-radius:50%;background:rgba(255,255,255,0.12);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:32px}
+      .chip{background:rgba(111,66,193,0.12);color:var(--purple-1);padding:6px 10px;border-radius:999px;font-weight:600}
+      .section-card{border-radius:12px}
+      a.btn-primary{background:var(--purple-1);border-color:var(--purple-1)}
+    </style>
+  </head>
+  <body>
+    <main class="container py-5">
+      <div class="row justify-content-center">
+        <div class="col-12 col-md-10 col-lg-8">
+
+          <section class="hero d-flex flex-column flex-md-row align-items-center gap-4 mb-4">
+            <div class="avatar">JP</div>
+            <div class="flex-grow-1 text-center text-md-start">
+              <h1 class="mb-1" style="font-weight:700">Jeng Pramesti Dyah Ayu Oktavian</h1>
+              <p class="mb-1">Mahasiswi Psikologi — Semester 1</p>
+              <p class="mb-0 small">Manukan, Surabaya • <a class="text-white text-decoration-underline" href="mailto:shinkakyung@gmail.com">shinkakyung@gmail.com</a></p>
+            </div>
+            <div class="text-center text-md-end">
+              <div class="chip">Psikologi • Semester 1</div>
+            </div>
+          </section>
+
+          <section class="card section-card mb-3 shadow-sm">
+            <div class="card-body">
+              <h4 style="color:var(--purple-1);font-weight:700">Ringkasan</h4>
+              <p>Halo! Saya Jeng, mahasiswi baru Jurusan Psikologi. Saya tertarik pada perkembangan manusia, penelitian sederhana, dan memahami perilaku. Saat ini sedang menyesuaikan diri dengan perkuliahan semester 1, aktif belajar metode dasar penelitian dan dasar-dasar psikologi.</p>
+              <div class="d-flex gap-2 flex-wrap">
+                <a class="btn btn-outline-primary btn-sm" href="#education">Pendidikan</a>
+                <a class="btn btn-outline-primary btn-sm" href="#skills">Keahlian</a>
+                <a class="btn btn-outline-primary btn-sm" href="#projects">Proyek & Kegiatan</a>
+              </div>
+            </div>
+          </section>
+
+          <section id="education" class="card section-card mb-3">
+            <div class="card-body">
+              <h5 style="color:var(--purple-1);font-weight:600">Pendidikan</h5>
+              <p class="mb-1"><strong>Bachelor of Psychology (Sedang berjalan)</strong></p>
+              <p class="text-muted small mb-0">Universitas — Mulai 2025</p>
+            </div>
+          </section>
+
+          <section id="skills" class="card section-card mb-3">
+            <div class="card-body">
+              <h5 style="color:var(--purple-1);font-weight:600">Keahlian & Minat</h5>
+              <ul>
+                <li>Dasar-dasar Psikologi (Teori perkembangan, psikologi sosial)</li>
+                <li>Minat dalam penelitian kuantitatif dasar</li>
+                <li>Komunikasi, empati, dan kerja tim</li>
+              </ul>
+            </div>
+          </section>
+
+          <section id="projects" class="card section-card mb-3">
+            <div class="card-body">
+              <h5 style="color:var(--purple-1);font-weight:600">Proyek & Kegiatan</h5>
+              <p class="mb-1"><strong>Observasi Mini — Perilaku Interaksi Sosial</strong></p>
+              <p class="small text-muted">Deskripsi: Observasi singkat di lingkungan kampus untuk mengenali pola interaksi sosial. Peran: pengamat, pencatat.</p>
+              <hr>
+              <p class="mb-0 small text-muted">Catatan: Proyek dan kegiatan di atas dibuat sebagai contoh. Saya dapat memperbarui halaman ini dengan pengalaman nyata ketika tersedia.</p>
+            </div>
+          </section>
+
+          <section class="text-center mt-3 mb-4">
+            <a class="btn btn-primary" href="mailto:shinkakyung@gmail.com">Hubungi Saya</a>
+          </section>
+
+          <footer class="text-center small text-muted">
+            © <span id="year"></span> Jeng Pramesti Dyah Ayu Oktavian — Mahasiswi Psikologi (Semester 1)
+          </footer>
+
+        </div>
+      </div>
+    </main>
+
+    <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
