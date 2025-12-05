@@ -104,9 +104,14 @@ Jika tertarik, silakan hubungi saya melalui email atau Instagram (handle: `@s32s
 ---
 
 ## 📫 **Hubungi Saya**
-- 📧 Email: shinkakyung@gmail.com  
+- 📧 Email: <a href="mailto:shinkakyung@gmail.com">shinkakyung@gmail.com</a>  
+- 📷 Instagram: <a href="https://www.instagram.com/s32sakura" target="_blank">@s32sakura</a> (format kontak: DM / direct message)
 - 🔗 LinkedIn: *(isi link)*  
 - 🟣 GitHub: https://github.com/shinka-app
+
+**Informasi layanan & kontak**
+- Tarif: silakan *kontak langsung* melalui Email atau Instagram untuk diskusi tarif dan detail layanan.
+- Jam layanan: 24 jam (respons mungkin bervariasi; saya akan membalas secepatnya).
 
 ---
 
