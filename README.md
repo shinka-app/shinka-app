@@ -3,6 +3,9 @@
   <img src="https://img.shields.io/badge/Psychology-Science%20of%20Mind-800080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Student-Psychology%20Major-9A4DCC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Passion-Helping%20People-BD7BFF?style=for-the-badge" />
+  <!-- Contact badges -->
+  <a href="mailto:shinkakyung@gmail.com"><img src="https://img.shields.io/badge/Email-shinkakyung%40gmail.com-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/s32sakura" target="_blank"><img src="https://img.shields.io/badge/Instagram-@s32sakura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
@@ -82,6 +85,23 @@ Di samping studi, saya membuka beberapa jasa pendampingan psikologis berbasis pe
 - 🏋🏻‍♀️ **Pendamping Berbasis Psikologi Terapan (Non-Klinis)** — dukungan praktis yang menggabungkan pengetahuan psikologi terapan untuk kebiasaan sehat, motivasi, dan performa personal.
 
 Jika tertarik, silakan hubungi saya melalui email atau Instagram (handle: `@s32sakura`). Layanan bersifat non-klinis dan tidak menggantikan intervensi profesional klinis.
+
+### 🔎 Layanan & Cara Booking
+
+- Langkah singkat pemesanan/pendampingan:
+  1. Kirim DM Instagram (`@s32sakura`) atau email ke <a href="mailto:shinkakyung@gmail.com">shinkakyung@gmail.com</a> dengan subjek `Pendampingan - [Jenis Layanan]`.
+  2. Sertakan ringkasan singkat kebutuhan Anda (mis. emotional support, relationship education, refleksi diri, atau pendampingan berbasis psikologi terapan).
+  3. Saya akan merespons untuk mengatur jadwal, durasi sesi, dan detail tarif.
+
+- Tarif: silakan kontak langsung untuk diskusi tarif (harga fleksibel tergantung layanan dan durasi).
+- Jam layanan: 24 jam (respons bisa berbeda tergantung waktu; akan dibalas secepatnya).
+
+> Catatan: Semua layanan bersifat non-klinis. Jika kondisi membutuhkan intervensi klinis, saya akan merekomendasikan profesional yang sesuai.
+
+### 🔐 Keamanan & Privasi
+
+- Percakapan dan materi yang dibagikan akan dijaga kerahasiaannya. Saya menghargai privasi dan berkomitmen menjaga data pribadi klien.
+- Untuk interaksi yang sensitif, disarankan menggunakan komunikasi terenkripsi dan menghindari berbagi informasi medis yang mendalam.
 
 
 ## 🟣 **Statistik GitHub (opsional)**
