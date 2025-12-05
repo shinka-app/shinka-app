@@ -71,6 +71,19 @@ Dengan semangat belajar dan rasa empati, saya ingin tumbuh sebagai pribadi yang 
 
 ---
 
+## 🏋️‍♀️ **Gaya Hidup & Layanan yang Saya Tawarkan**
+Saya aktif sebagai seorang *gymgirl* — rutin berolahraga untuk menjaga kesehatan fisik dan kebugaran mental. Saya juga menggambarkan diri sebagai pribadi *visioner*, percaya diri, dan memiliki *self-esteem* serta *self-worth* yang tinggi. Saya menjunjung tinggi nilai diri dan kecerdasan emosional dalam setiap interaksi.
+
+Di samping studi, saya membuka beberapa jasa pendampingan psikologis berbasis pendekatan terapan (non-klinis):
+
+- 🌿 **Emotional Support Companion** — pendampingan suportif untuk mengelola emosi sehari-hari, membangun regulasi emosi, dan mencari strategi coping yang sehat.
+- 💔 **Relationship Educator** — edukasi dan pendampingan sederhana mengenai dinamika hubungan, komunikasi sehat, dan batasan personal.
+- 🪞 **Fasilitator Refleksi Diri** — sesi terstruktur singkat untuk membantu refleksi nilai, tujuan, dan langkah pengembangan diri.
+- 🏋🏻‍♀️ **Pendamping Berbasis Psikologi Terapan (Non-Klinis)** — dukungan praktis yang menggabungkan pengetahuan psikologi terapan untuk kebiasaan sehat, motivasi, dan performa personal.
+
+Jika tertarik, silakan hubungi saya melalui email atau Instagram (handle: `@s32sakura`). Layanan bersifat non-klinis dan tidak menggantikan intervensi profesional klinis.
+
+
 ## 🟣 **Statistik GitHub (opsional)**
 <p align="center">
   <!-- Main GitHub stats card (use a supported theme) -->
