@@ -99,6 +99,15 @@ Jika tertarik, silakan hubungi saya melalui email atau Instagram (handle: `@s32s
   <img src="https://img.shields.io/github/repo-size/shinka-app?style=flat" alt="repo size" />
 </p>
 
+
+## 📊 Top Languages (statis — fallback)
+
+<!-- Generated fallback: use this when the github-readme-stats service is unavailable -->
+
+Tidak ada data bahasa yang terdeteksi untuk user `shinka-app` pada saat pengecekan (mungkin karena tidak ada repository publik atau service pihak ketiga sedang down). Jika Anda memiliki repositori publik, pastikan username benar atau jalankan skrip pembaruan untuk menghasilkan ringkasan statis.
+
+<!-- End fallback -->
+
 > Catatan: kartu statistik menggunakan layanan pihak ketiga (github-readme-stats). Jika kartu tidak muncul, pastikan `shinka-app` adalah username GitHub yang benar dan repository/public profile tidak dibatasi. Untuk mengubah username, ganti parameter `username=` pada URL gambar.
 
 ---
