@@ -73,11 +73,20 @@ Dengan semangat belajar dan rasa empati, saya ingin tumbuh sebagai pribadi yang 
 
 ## 🟣 **Statistik GitHub (opsional)**
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinka-app&show_icons=true&theme=purple" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinka-app&layout=compact&theme=purple" />
+  <!-- Main GitHub stats card (use a supported theme) -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shinka-app&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
+  <!-- Top languages (compact) -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinka-app&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
-> Ganti **shinka-app** dengan username GitHub-mu.
+<p align="center">
+  <!-- Fallback badges (followers, repos, stars) -->
+  <img src="https://img.shields.io/github/followers/shinka-app?style=social" alt="github followers" />
+  <img src="https://img.shields.io/github/stars/shinka-app?style=social" alt="github stars" />
+  <img src="https://img.shields.io/github/repo-size/shinka-app?style=flat" alt="repo size" />
+</p>
+
+> Catatan: kartu statistik menggunakan layanan pihak ketiga (github-readme-stats). Jika kartu tidak muncul, pastikan `shinka-app` adalah username GitHub yang benar dan repository/public profile tidak dibatasi. Untuk mengubah username, ganti parameter `username=` pada URL gambar.
 
 ---
 
